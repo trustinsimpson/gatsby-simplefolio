@@ -42,14 +42,14 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Firearm Recommender',
+    img: 'project.png',
+    title: 'Cooking Knife Recommender',
     info:
-      'Growing up in a small town in Missouri, I have a passion for firearms. Unfortunately, all too often I see people with little knowledge of these very dangerous tools, speaking about purchasing and operating one.',
+      'A small website built with a combination of bootstrap and css-grid. Designed without React or similar tools, this project showcases some of the ways these tools help simplify and clean up code in even small projects.',
     info2:
-      'I believe driving down firearm deaths is not a matter of banning specific types of guns, but rather of education! This project was created to be a first step in the education process for someone interested in exploring the idea of purchasing their first firearm.',
-    url: 'https://trustinsimpson.github.io/gun-recommender/',
-    repo: 'https://github.com/trustinsimpson/gun-recommender',
+      "Cooking is a way to a healthier lifestyle, but you shouldn't have to be wealthy to get started! Here's a simple recommender for the only 3 knives you need to get started.",
+    url: 'https://trustinsimpson.github.io/cooking_knives/index.html',
+    repo: 'https://github.com/trustinsimpson/cooking_knives',
   },
   {
     id: nanoid(),
