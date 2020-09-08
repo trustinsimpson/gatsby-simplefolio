@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Trustin Simpson', // e.g: 'Name | Developer'
-  lang: 'en', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Trustin Simpson',
+  lang: 'en',
+  description: 'Welcome!',
 };
 
 // HERO DATA
@@ -24,7 +24,7 @@ export const aboutData = {
     "Recently, I decided that my career in recruiting, while enjoyable and fulfilling, has never really allowed me to live up to the potential nor pursue the passion I've always had for developement. So, in early 2020 I began the process of pursuing a career in the web dev world, and am now proud to call myself a junior developer!",
   paragraphThree:
     'For more information about my background, feel free to view my resume and some of the projects I have worked on!',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://my.indeed.com/p/trustins-2jjgz2q',
 };
 
 // PROJECTS DATA
@@ -38,7 +38,7 @@ export const projectsData = [
     info2:
       'Never lose track of your non-carbon based friends again, when you utilize this address book!',
     url: 'https://heuristic-lamport-22a5e8.netlify.app/',
-    repo: 'https://github.com/trustinsimpson/robofriends', // if no repo, the button will not show up
+    repo: 'https://github.com/trustinsimpson/robofriends',
   },
   {
     id: nanoid(),
@@ -49,7 +49,7 @@ export const projectsData = [
     info2:
       'I believe driving down firearm deaths is not a matter of banning specific types of guns, but rather of education! This project was created to be a first step in the education process for someone interested in exploring the idea of purchasing their first firearm.',
     url: 'https://trustinsimpson.github.io/gun-recommender/',
-    repo: 'https://github.com/trustinsimpson/gun-recommender', // if no repo, the button will not show up
+    repo: 'https://github.com/trustinsimpson/gun-recommender',
   },
   {
     id: nanoid(),
@@ -59,7 +59,7 @@ export const projectsData = [
     info2:
       'Select any two colors you desire, or allow the random background generator to choose for you!',
     url: 'https://trustinsimpson.github.io/color_generator/',
-    repo: 'https://github.com/trustinsimpson/color_generator', // if no repo, the button will not show up
+    repo: 'https://github.com/trustinsimpson/color_generator',
   },
 ];
 
