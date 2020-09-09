@@ -54,7 +54,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project1.jpg',
-    title: 'Background Gradient Generater',
+    title: 'Background Gradient Generator',
     info: 'A small project designed to make implementing gradient backgrounds in your CSS easier!',
     info2:
       'Select any two colors you desire, or allow the random background generator to choose for you!',
