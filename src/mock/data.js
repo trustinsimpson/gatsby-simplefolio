@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'project2.png',
     title: 'RoboFriends',
     info:
-      'RoboFriends is a simple web app designed using React. The idea is to showcase the modularity of teh the React platform with a simple, but fun app.',
+      'RoboFriends is a simple web app designed using React. The idea is to showcase the modularity of the the React platform with a simple, but fun app.',
     info2:
       'Never lose track of your non-carbon based friends again, when you utilize this address book!',
     url: 'https://heuristic-lamport-22a5e8.netlify.app/',
@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'project.png',
     title: 'Cooking Knife Recommender',
     info:
-      'A small website built with a combination of bootstrap and css-grid. Designed without React or similar tools, this project showcases some of the ways these tools help simplify and clean up code in even small projects.',
+      'A small website built with a combination of bootstrap and css-grid. Designed without React to demonstrate how even small projects can could benefit from the clean coding and oranization React provides.',
     info2:
       "Cooking is a way to a healthier lifestyle, but you shouldn't have to be wealthy to get started! Here's a simple recommender for the only 3 knives you need to get started.",
     url: 'https://trustinsimpson.github.io/cooking_knives/index.html',
