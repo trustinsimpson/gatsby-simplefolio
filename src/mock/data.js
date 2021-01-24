@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project2.png',
+    img: 'project2.jpg',
     title: 'RoboFriends',
     info:
       'RoboFriends is a simple web app designed using React. The idea is to showcase the modularity of the the React platform with a simple, but fun app.',
@@ -42,7 +42,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.png',
+    img: 'project.jpg',
     title: 'Cooking Knife Recommender',
     info:
       'A small website built with a combination of bootstrap and css-grid. Designed without React to demonstrate how even small projects can could benefit from the clean coding and oranization React provides.',
@@ -53,13 +53,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project1.jpg',
-    title: 'Background Gradient Generator',
-    info: 'A small project designed to make implementing gradient backgrounds in your CSS easier!',
+    img: 'welding-project.jpg',
+    title: 'SEK Fab Business Site',
+    info: 'A single page website for a small fabrication business based out of South East Kansas.',
     info2:
-      'Select any two colors you desire, or allow the random background generator to choose for you!',
-    url: 'https://trustinsimpson.github.io/color_generator/',
-    repo: 'https://github.com/trustinsimpson/color_generator',
+      'Designed with simplicity and responsiveness in mind in order to maximize web exposure for a start-up shop.',
+    url: 'https://determined-roentgen-1dd5a2.netlify.app/',
+    repo: 'https://github.com/trustinsimpson/sek-fab',
   },
 ];
 
