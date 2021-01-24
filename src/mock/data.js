@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Cooking Knife Recommender',
     info:
-      'A small website built with a combination of bootstrap and css-grid. Designed without React to demonstrate how even small projects can could benefit from the clean coding and oranization React provides.',
+      'A small website built with a combination of bootstrap and css-grid. Designed without React to demonstrate how even small projects could benefit from the clean coding and oranization React provides.',
     info2:
       "Cooking is a way to a healthier lifestyle, but you shouldn't have to be wealthy to get started! Here's a simple recommender for the only 3 knives you need to get started.",
     url: 'https://trustinsimpson.github.io/cooking_knives/index.html',
